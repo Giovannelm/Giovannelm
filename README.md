@@ -4,8 +4,7 @@ Meu nome é Giovanne Lopes Menicheli, tenho 24 anos e sou desenvolvedor na empre
 
 🔭 No momento estou no projeto Vem Ser DBC, na track de QA;
 
-🌱 Estou aprendendo JavaScript, Java e HTML, além do que é dado em aulas das faculdades e do curso da DBC;
-
+🌱 Tenho conhecimento em Java, JavaScript, HTML, bem como as ferramentas de teste de Quality Assurance, como Restassured, Selenium, Cypress, e Postman.
 
 📫 Meu email de contato é: giovanne.lopes.menicheli@gmail.com
 
