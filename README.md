@@ -5,7 +5,3 @@ Meu nome é Giovanne Lopes Menicheli, tenho 25 anos e sou desenvolvedor na empre
 🌱 Tenho conhecimento em Java, JavaScript, HTML, Banco de dados, bem como as ferramentas de teste de Quality Assurance, como Restassured, Selenium, Cypress, e Postman.
 
 📫 Meu email de contato é: giovanne.lopes.menicheli@gmail.com
-
-😄 Pronomes: Ele/Dele
-
-
